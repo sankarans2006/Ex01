@@ -28,8 +28,10 @@
     Displays information about tcp and udp connections and ports.
 
 ## OUTPUT
+<img width="853" alt="image" src="https://github.com/sankarans2006/Ex01/assets/166099320/47dcbc2e-533e-479a-a6fa-6530e94b10a5">
 
-![alt text](image.png)
-![alt text](image-1.png)
+<img width="853" alt="image-1" src="https://github.com/sankarans2006/Ex01/assets/166099320/9ae48975-f18f-4167-a885-76e2c97a4ce3">
+
+
 ## RESULT
   The basic commands in networking are executed successfully.
